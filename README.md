@@ -22,7 +22,7 @@ Harry Potter and the Sorcerer’s Stone – https://dgoldberg.sdsu.edu/515/harry
 
 ## Example
 
-![Harry's Glasses WordCloud](masks/HP_glasses.png)
+![Harry's Glasses WordCloud](masks/HP_Glasses.png)
 ![Hogwarts WordCloud](masks/HP_hogwarts.png)
 
 💡 Ideas:
